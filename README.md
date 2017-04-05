@@ -65,3 +65,4 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
+|[Gabriel Cavalcante](https://www.facebook.com/gabrielsscavalcante)|[GitHub]()|[Youtube](https://www.youtube.com/watch?v=gaoKRjBLQfQ&t=29s)|UIKit, AVFoundation, CoreImage, UIGraphics|Submitted|
